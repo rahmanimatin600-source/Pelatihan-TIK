@@ -3,7 +3,7 @@ body {
     background: linear-gradient(135deg, #667eea, #764ba2);
     color: #ff1e1f;
 }
-.kartu-profil {
+.profil-saya {
     background-color: white;
     padding: 25px;
     border-radius: 17px;
@@ -14,11 +14,11 @@ body {
 }
 
 
-.kartu-profil img {
+.profil-saya img {
   width: 150px;
   border-radius: 50%;
 }
-.kartu-profil {
+.profil-saya {
     /* ... (kode dari slide sebelumnya) ... */
     text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
